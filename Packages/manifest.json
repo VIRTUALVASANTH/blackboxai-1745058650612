@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "com.unity.xr.arfoundation": "5.0.1",
+    "com.unity.xr.arcore": "5.0.1",
+    "com.mapbox.mapboxsdk": "2.1.1"
+  }
+}
